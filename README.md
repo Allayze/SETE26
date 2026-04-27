@@ -2,7 +2,7 @@
 
 Interactive tutorial by Fabrice Theodore, CPEng | Allayze
 
-[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/allayze/SETE-2026/main)
+[![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Allayze/SETE26/main)
 
 ## Quick Start
 
