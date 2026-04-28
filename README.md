@@ -78,4 +78,4 @@ We build multi-agent platforms that handle the 60% of SE effort that goes to req
 
 Fabrice Theodore, CPEng NER MIEAust | INCOSE ASEP
 Director and Founder, Allayze
-[allayze.com](https://allayze.com) | [LinkedIn](https://www.linkedin.com/in/fabricetheodore/)
+[allayze.com](https://allayze.com.au) | [LinkedIn](https://www.linkedin.com/in/fabricetheodore/)
